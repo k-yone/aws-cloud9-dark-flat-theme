@@ -18,6 +18,7 @@ Sample of user.settings file to use the hidden dark flat theme on aws Cloud9.
 ![settings](https://github.com/k-yone/aws-cloud9-dark-flat-theme/blob/images/settings.PNG)
 * Copy this file to it and save.
 * Ta-da! You got a nice dark flat theme!
+![dark-flat](https://github.com/k-yone/aws-cloud9-dark-flat-theme/blob/images/dark-flat.PNG)
 
 ## Official Docs
 * Check aws official docs for details.
